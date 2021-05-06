@@ -13,7 +13,3 @@ var firebaseConfig = {
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
-
-// Initialize Firebase db, auth
-const db = firebase.database();
-const auth = firebase.auth();

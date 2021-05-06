@@ -12,7 +12,7 @@ function showData(items) {
         }
         
     })
-
+    
     _ul.innerHTML = _content;
 }
 
