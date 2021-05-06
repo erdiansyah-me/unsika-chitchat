@@ -21,6 +21,10 @@ $(document).ready(() => {
     window.onbeforeunload = refreshUser();
 })
 
+
+
+
+
 // var userId = "";
 // var msgRef = "";
 // auth.signInAnonymously();
